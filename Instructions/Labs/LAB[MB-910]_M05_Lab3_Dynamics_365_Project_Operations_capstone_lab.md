@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Задание 5.3. Заключительное задание по Dynamics 365 Project Operations'
+    title: 'Лабораторная работа 5.3. Заключительное задание по Dynamics 365 Project Operations'
     module: 'Модуль 5. Изучение основ Dynamics 365 Project Operations'
 ---
 
