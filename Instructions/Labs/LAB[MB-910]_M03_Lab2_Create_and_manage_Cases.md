@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Лабораторная работа 3.2. Создание и управление обращениями в Dynamics 365 Customer Service'
     module: 'Модуль 3. Изучение основ Dynamics 365 Customer Service'

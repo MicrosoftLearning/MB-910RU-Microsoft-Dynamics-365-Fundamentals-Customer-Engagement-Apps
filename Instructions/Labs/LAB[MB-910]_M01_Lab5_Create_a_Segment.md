@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Лабораторная работа 1.5. Создание сегмента в Dynamics 365 Marketing'
     module: 'Модуль 1. Изучение основ Dynamics 365 Marketing'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Лабораторная работа 4.1. Создание заказов на работу в Dynamics 365 Field Service'
     module: 'Модуль 4. Изучение основ Dynamics 365 Field Service'

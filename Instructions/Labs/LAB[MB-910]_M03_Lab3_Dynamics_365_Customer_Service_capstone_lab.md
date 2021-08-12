@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Лабораторная работа 3.3. Итоговая работа по Dynamics 365 Customer Service'
     module: 'Модуль 3. Изучение основ Dynamics 365 Customer Service'
